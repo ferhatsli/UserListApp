@@ -56,7 +56,7 @@ The project follows the MVVM (Model-View-ViewModel) architecture pattern with ad
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/UserListApp.git
+git clone https://github.com/ferhatsli/UserListApp.git
 ```
 
 2. Open the project in Xcode:
